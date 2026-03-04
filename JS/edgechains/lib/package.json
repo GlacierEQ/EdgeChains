@@ -35,7 +35,7 @@
         "axios": "^1.6.2",
         "axios-retry": "^4.1.0",
         "dotenv": "^16.4.5",
-        "esbuild": "^0.20.2",
+        "esbuild": "^0.27.3",
         "eventsource-parser": "^1.1.2",
         "inquirer": "^9.2.12",
         "milsymbol": "^2.2.0",
@@ -56,7 +56,7 @@
         "jest-fetch-mock": "^3.0.3",
         "react": "^18.2.0",
         "ts-jest": "^29.1.2",
-        "tsup": "^7.2.0",
+        "tsup": "^8.5.1",
         "typescript": "^5.0.2"
     }
 }
