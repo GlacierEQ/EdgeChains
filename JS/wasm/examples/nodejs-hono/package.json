@@ -7,7 +7,7 @@
     },
     "devDependencies": {
         "@planetscale/database": "^1.4.0",
-        "esbuild": "^0.19",
+        "esbuild": "^0.28",
         "hono": "^3.9"
     },
     "dependencies": {
