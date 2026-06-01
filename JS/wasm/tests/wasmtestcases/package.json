@@ -14,11 +14,11 @@
         "@hono/node-server": "^2.0.2",
         "axios": "^1.7.2",
         "child_process": "^1.0.2",
-        "esbuild": "^0.23.0",
+        "esbuild": "^0.28.0",
         "hono": "^4.12",
         "nohup": "^0.1.0"
     },
     "devDependencies": {
-        "vitest": "^2.0.1"
+        "vitest": "^4.1.8"
     }
 }
